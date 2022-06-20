@@ -1,5 +1,5 @@
 # Conta-de-Banco
-Foi feito um pequeno exercício em POO, aonde  eu criei uma  conta de banco
+Foi feito um pequeno exercício em POO, aonde  eu criei uma  conta de banco;
 São utilizados 5 métodos que são  abriConta,depositar,fecharConta,sacar ,pagarMensalidade e  mais um método para imprimir a saída chamado status.
 Criei uma classe chamada Conta_Banco;
 Criei 5 Atributoos aonde 3 são do tipo private, 1 protected e o outro públic;
